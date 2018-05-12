@@ -1,10 +1,16 @@
 _repo: The-Book-of-Old-Fashioned-Flowers-And-Other-Plants-Which-Thrive-in-the-Open-Air-of-England_48740
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48740-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Roberts, Harry
     gutenberg_agent_id: '44951'
     url: http://www.gutenberg.org/2009/agents/44951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48740#The-Book-of-Old-Fashioned-Flowers-And-Other-Plants-Which-Thrive-in-the-Open-Air-of-England
 gutenberg_issued: '2015-04-18'
 gutenberg_type: Text
 identifiers:
